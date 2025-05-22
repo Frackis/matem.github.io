@@ -1,6 +1,7 @@
 html {
 	background-image: url(image/fon.png); /*фон страницы */
   background-size: cover;
+  background-attachment: fixed
 } 
 header {
   width: 90%;
