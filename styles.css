@@ -76,3 +76,8 @@ width: auto;
   font-size: 5vw;
   white-space: nowrap;
 }
+#mat {
+  font-size: 4vw;
+  left: 52%;
+  margin-top: 1.7%;
+}
